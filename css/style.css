@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+article {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+}
+
+figure {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+main {
+    text-align: left;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 8px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h2,
+p {
+    margin-bottom: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+footer {
+    margin-top: 32px;
+    text-align: center;
+}
+
+li {
+    margin: 8px 32px;
+}
+
+
+figcaption,
+#attribution {
+    margin-top: 8px;
+}
+
+#attribution {
+    font-size: 12px;
+}
+
+#new-vegas {
+    font-weight: bold;
+    color: orange;
+}
